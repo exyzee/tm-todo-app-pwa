@@ -11,7 +11,7 @@ Figma: https://www.figma.com/design/LxIQaCRxqc4cWZpLG2zLSS/Todo-App?node-id=0-1&
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+
 
 
 ## Description
@@ -39,12 +39,3 @@ This is a React-based task manager app that integrates the following cool featur
 - OpenWeather API for live weather updates
 - Day.js for time formatting
 
-## Installation
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
