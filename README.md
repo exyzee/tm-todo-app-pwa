@@ -4,6 +4,7 @@ A dynamic and interactive task manager with added features like live music (Fred
 
 ![image](https://github.com/user-attachments/assets/9c05b09e-9f51-4d3d-98be-54ba4326b6c4)
 
+Figma: https://www.figma.com/design/LxIQaCRxqc4cWZpLG2zLSS/Todo-App?node-id=0-1&t=k1DF12OYiZtCpgH1-1
 
 ## Table of Contents
 
