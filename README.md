@@ -110,25 +110,3 @@ The app can be deployed to various platforms. Here's how to deploy to common hos
    npm run deploy
    ```
 
-### Netlify/Vercel
-1. Connect your repository to Netlify/Vercel
-2. Set build command: `npm run build`
-3. Set publish directory: `build`
-
-## Usage
-
-1. Open the app in a modern web browser
-2. Add tasks using the input field
-3. Mark tasks as complete by clicking the checkbox
-4. Filter tasks using the status buttons
-5. Enjoy background music with the draggable player
-6. Install the app on your device for easier access
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
