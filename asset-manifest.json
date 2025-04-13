@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tm-todo-app-pwa/static/css/main.55542863.css",
+    "main.js": "/tm-todo-app-pwa/static/js/main.53e016e4.js",
+    "static/media/background-image.jpg": "/tm-todo-app-pwa/static/media/background-image.9a57791f16a8406b5a2f.jpg",
+    "index.html": "/tm-todo-app-pwa/index.html",
+    "main.55542863.css.map": "/tm-todo-app-pwa/static/css/main.55542863.css.map",
+    "main.53e016e4.js.map": "/tm-todo-app-pwa/static/js/main.53e016e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55542863.css",
+    "static/js/main.53e016e4.js"
+  ]
+}
